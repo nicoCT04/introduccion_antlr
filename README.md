@@ -24,9 +24,7 @@ Este repositorio contiene mi entrega del Laboratorio 1, donde se trabaja con **A
 
 ## Video (Entregable 2)
 
-> ⚠️ **Pendiente:** pegar aquí el enlace de YouTube (no listado / público).
-
-**Link:** _(agregar link del video de YouTube aquí)_
+**Link:** https://youtu.be/rrDNdrvi66g
 
 En el video se muestra:
 - Un caso donde el programa **compila correctamente** (sin salida).

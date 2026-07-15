@@ -1,4 +1,4 @@
-# 🧪 Laboratorio 1: Introducción a ANTLR
+# Laboratorio 1: Introducción a ANTLR
 
 **Curso:** Construcción de Compiladores 2
 **Autor:** Nicolás Concuá
@@ -16,17 +16,17 @@ Este repositorio contiene mi entrega del Laboratorio 1, donde se trabaja con **A
 | `program/MiniLang.g4`    | Gramática de ANTLR (lexer + parser).                               |
 | `program/Driver.py`      | Punto de entrada: lee un archivo y lo analiza con lexer y parser.  |
 | `program/program_test.txt` | Archivo de prueba de entrada.                                    |
-| `ANALISIS.md`            | **Entregable 1:** análisis de la gramática y del Driver.          |
+| `Analisis_Lab1.docx`     | **Entregable 1:** análisis de la gramática y del Driver.          |
 | `Dockerfile`             | Entorno reproducible con ANTLR + Python.                          |
 | `antlr-4.13.1-complete.jar` | Binario de ANTLR usado para generar lexer/parser.             |
 
 ---
 
-## 🎥 Video (Entregable 2)
+## Video (Entregable 2)
 
 > ⚠️ **Pendiente:** pegar aquí el enlace de YouTube (no listado / público).
 
-📺 **Link:** _(agregar link del video de YouTube aquí)_
+**Link:** _(agregar link del video de YouTube aquí)_
 
 En el video se muestra:
 - Un caso donde el programa **compila correctamente** (sin salida).
@@ -35,7 +35,7 @@ En el video se muestra:
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### Opción A — con Docker
 
@@ -66,7 +66,7 @@ python3 Driver.py program_test.txt
 
 ---
 
-## 📄 Análisis
+##  Análisis
 
 El análisis completo de la gramática ANTLR y del `Driver.py` está en
-**[`ANALISIS.md`](./ANALISIS.md)**.
+**[`Analisis_Lab1.docx`](./Analisis_Lab1.docx)**.
